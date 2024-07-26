@@ -2,11 +2,32 @@ html {
   scroll-behavior: smooth;
 }
 
+vellum-doc {
+  --index-width: 250px;
+}
+
 vellum-doc::part(index) {
   margin-top: 1.6rem;
   padding-right: 1em;
   padding-left: 1em;
-  border-right: none;
+  border-right: 2px solid black;
+}
+
+vellum-doc::part(index-h1) {
+  font-size: 1.4em;
+  text-transform: uppercase;
+}
+
+vellum-doc::part(index-h2) {
+  font-size: 1.3em;
+}
+
+vellum-doc::part(index-h3) {
+  font-size: 1em;
+}
+
+vellum-doc::part(index-h4) {
+  font-size: 0.8em;
 }
 
 article#document {
