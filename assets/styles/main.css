@@ -7,7 +7,6 @@ vellum-doc {
 }
 
 vellum-doc::part(index) {
-  margin-top: 1.6rem;
   padding-right: 1em;
   padding-left: 1em;
   border-right: 2px solid black;
