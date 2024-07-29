@@ -19,7 +19,7 @@ To create a character follow these steps:
 
    - You can purchase the Trappings for a career with your **Wages**.
 
-   - You gain the Wages and **Skills** of your career.
+   - You gain the **Skills** of your career and roll for its Wages.
 
    - You can move between careers for as long as you have the Wages to do so.
    - Once you've taken a Career you've learned all you can from it, and cannot take it again.
