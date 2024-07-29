@@ -2,7 +2,11 @@
   "name": "wargod",
   "version": "2.0.0",
   "description": "Grubby fantasy roleplaying",
-  "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
+  "author": {
+    "name": "Ric Wood",
+    "email": "ric@grislyeye.com",
+    "url": "https://grislyeye.com/"
+  },
   "scripts": {
     "build": "npx @11ty/eleventy",
     "clean": "rimraf _site",
