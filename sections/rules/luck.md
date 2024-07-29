@@ -2,7 +2,6 @@
 index: 210
 tags: pages
 permalink: false
-
 ---
 
 ### Luck
