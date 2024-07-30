@@ -1,0 +1,4 @@
+link-preview::part(preview) {
+  width: 400px;
+  box-shadow: 5px 5px 10px 0 #757575;
+}
