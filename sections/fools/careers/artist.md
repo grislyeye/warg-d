@@ -1,11 +1,11 @@
 ---
-index: 112
+index: 152
 permalink: false
 tags: pages
 ---
 #### Artist
 
-**Skills:** Will +1
+**Skills:** Notice +2
 
 **Trappings:**
 

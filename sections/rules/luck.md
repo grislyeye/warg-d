@@ -1,6 +1,7 @@
 ---
-index: 210
-tags: pages
+index: 230
+tags:
+  - pages
 permalink: false
 ---
 

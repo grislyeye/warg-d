@@ -5,7 +5,7 @@ tags: pages
 ---
 ## Fools
 
-Each player controls a **Fool**, an individual of poor luck or wits drawn into unlikely circumstances beyond their control. Fools are defined by [Fates](fates.md), [Careers](careers.md), [Skills](skills.md), **Stamina**, [Luck](../rules/luck.md), [Trappings](trappings.md) and [Wages](wages.md)
+Each player controls a **Fool**, an individual of poor luck or wits drawn into unlikely circumstances beyond their control. Fools are defined by [Fates](fates.md), [Careers](careers.md), [Skills](skills.md), **Stamina**, [Luck](../rules/luck.md), [Trappings](trappings.md) and [Wages](wages.md).
 
 To create a character follow these steps:
 
