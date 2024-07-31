@@ -6,7 +6,7 @@ tags: pages
 
 #### Artist
 
-**Skills:** Notice +2
+**Skills:** Notice +3
 
 **Trappings:**
 
