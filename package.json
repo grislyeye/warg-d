@@ -16,7 +16,7 @@
     "test": "htmlhint _site/**/*.html && markdownlint *.md sections/** && stylelint 'assets/styles/**/*.css'"
   },
   "dependencies": {
-    "@grislyeye/link-preview": "^0.0.1",
+    "@grislyeye/link-preview": "^0.0.2",
     "vellum-doc": "^0.10.0"
   },
   "devDependencies": {
@@ -29,7 +29,7 @@
     "markdownlint-cli": "^0.41.0",
     "normalize.css": "^8.0.1",
     "rimraf": "^6.0.1",
-    "stylelint": "^16.7.0",
+    "stylelint": "^16.8.1",
     "stylelint-config-standard": "^36.0.1"
   }
 }
