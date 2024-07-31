@@ -3,6 +3,7 @@ index: 130
 permalink: false
 tags: pages
 ---
+
 ### Trappings
 
 **Trappings** are significant items of trade, profession or class, and are priced in [Wages](wages.md).

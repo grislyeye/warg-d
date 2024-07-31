@@ -4,6 +4,7 @@ tags:
   - pages
 permalink: false
 ---
+
 ### Combat
 
 **Combat** is divided into rounds. For every round each character can take one action. Actions occur in the following order:

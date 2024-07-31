@@ -3,6 +3,7 @@ index: 152
 permalink: false
 tags: pages
 ---
+
 #### Artist
 
 **Skills:** Notice +2

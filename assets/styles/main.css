@@ -43,14 +43,14 @@ article#document {
 }
 
 article#document > section {
-  width:100%;
+  width: 100%;
 }
 
 article#document > section:has(h4:first-child) {
   width: 47%;
 }
 
-@media(max-width: 750px) {
+@media (max-width: 750px) {
   article#document > section:has(h4:first-child) {
     width: 100%;
   }

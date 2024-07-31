@@ -3,6 +3,7 @@ index: 161
 permalink: false
 tags: pages
 ---
+
 #### Agitator
 
 **Skills:** Persuade +1, Sneak +1, Will +1

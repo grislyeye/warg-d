@@ -4,6 +4,7 @@ tags:
   - pages
 permalink: false
 ---
+
 ### Attacks
 
 When you **Attack** a target, make a [Contest](contests.md) using a relevant combat [Skill](../careers/skills.md) (**Bash**, **Shoot**, **Slash**, or **Stab**).
