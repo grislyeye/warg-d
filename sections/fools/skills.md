@@ -6,7 +6,7 @@ tags: pages
 
 ### Skills
 
-**Skills**
+Each [Fool](fools.md) **Skills**
 
 | Skills   | Description                                                                            |
 | -------- | -------------------------------------------------------------------------------------- |

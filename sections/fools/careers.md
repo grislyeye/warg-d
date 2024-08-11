@@ -7,4 +7,4 @@ tags:
 
 ### Careers
 
-**Careers** define how a [Fool](fools.md) has earns their keep.
+**Careers** explain how a [Fool](fools.md) earns their keep.
