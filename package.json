@@ -1,27 +1,37 @@
 {
-  "name": "vellum-book",
-  "version": "0.0.0",
+  "name": "wargod",
+  "version": "2.0.0-alpha-1",
+  "description": "Grubby fantasy roleplaying",
+  "author": {
+    "name": "Ric Wood",
+    "email": "ric@grislyeye.com",
+    "url": "https://grislyeye.com/"
+  },
   "scripts": {
     "build": "npx @11ty/eleventy",
     "clean": "rimraf _site",
     "start": "npx @11ty/eleventy --serve --quiet",
     "predeploy": "npm run clean && npm run build && npm run test",
     "deploy": "gh-pages -d dist -b gh-pages -t",
-    "test": "htmlhint _site/**/*.html && markdownlint *.md sections/** && stylelint 'assets/styles/**/*.css'"
+    "lint": "npx prettier . --check && npx stylelint 'assets/styles/**/*.css'",
+    "lint:fix": "npx prettier . --write",
+    "test": "npm run lint && htmlhint _site/**/*.html"
   },
   "dependencies": {
-    "vellum-doc": "^0.8.0"
+    "@grislyeye/link-preview": "^0.0.2",
+    "magick.css": "^1.0.6",
+    "normalize.css": "^8.0.1",
+    "vellum-doc": "^0.10.0"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "cheerio": "^1.0.0-rc.12",
     "gh-pages": "^6.1.1",
     "htmlhint": "^1.1.4",
-    "magick.css": "^1.0.6",
-    "markdownlint-cli": "^0.41.0",
     "markdown-it-replace-link": "^1.2.1",
-    "normalize.css": "^8.0.1",
+    "prettier": "^3.3.3",
     "rimraf": "^6.0.1",
-    "stylelint": "^16.7.0",
+    "stylelint": "^16.8.1",
     "stylelint-config-standard": "^36.0.1"
   }
 }

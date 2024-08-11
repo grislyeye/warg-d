@@ -12,6 +12,7 @@
     <link href="assets/styles/main.css" rel="stylesheet" />
 
     <script type="module">
+      import './vendor/link-preview/link-preview.js'
       import './vendor/vellum-doc/vellum-doc.js'
     </script>
 
@@ -43,8 +44,7 @@
       </main>
 
       <footer>
-        <p>{{ site.title }} {{ project.version }} &copy; {{ project.author }} 2024</p>
-        <p><a href="{{ site.url }}">{{ site.url }}</a></p>
+        <p>{{ site.title }} {{ project.version }} &copy; 2024 <a href="{{ project.author.url }}">{{ project.author.name }}</a></p>
       </footer>
     </vellum-doc>
 

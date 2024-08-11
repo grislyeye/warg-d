@@ -3,17 +3,9 @@ index: 1
 permalink: false
 tags: pages
 ---
-# Vellum Book
 
-A template project for publishing rich web documents. Very much a work-in-progress at this time, use with caution.
+# Wargöd!
 
-**[Demo](https://grislyeye.github.io/vellum-book/)** |
-**[Roadmap](https://github.com/grislyeye/vellum-book/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)**
+**Wargöd!** is a rules-lite roleplaying game of grubby fantasy, inspired by games like _Warhammer Fantasy Roleplay_, _Warlock!_ and _Kriegmesser_. It is designed to be compatible with _Troika!_ And _Fighting Fantasy_.
 
-Features:
-
-- Write everything in plain markdown files
-- Rich document view with [`<vellum-doc>`](https://github.com/grislyeye/vellum-doc)
-- Link previews with [`<link-preview>`](https://github.com/rg-wood/link-preview) (not working)
-- Smartly converts links between markdown files into fragment links (e.g. [Chapter 1](sections/chapter-1/chapter-1.md))
-- Beautifully themed with [magick.css](https://css.winterveil.net/) by default
+The **Game** consists of [Fools](sections/fools/fools.md), [Rules](sections/rules/rules.md) and [The World](sections/world/world.md). You just need some paper, pencils and a handful of six-sided dice to get started.
